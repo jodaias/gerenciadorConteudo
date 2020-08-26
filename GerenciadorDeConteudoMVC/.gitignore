@@ -1,0 +1,4 @@
+bin
+obj
+Web.Debug.config
+Web.Release.config

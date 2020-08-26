@@ -1,0 +1,9 @@
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Business\bin\Debug\Business.dll
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Business\bin\Debug\Business.pdb
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Business\bin\Debug\Database.dll
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Business\bin\Debug\Database.pdb
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Business\obj\Debug\Business.csproj.CopyComplete
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Business\obj\Debug\Business.dll
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Business\obj\Debug\Business.pdb

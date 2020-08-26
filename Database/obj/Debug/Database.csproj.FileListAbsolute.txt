@@ -1,0 +1,6 @@
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Database\bin\Debug\Database.dll
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Database\bin\Debug\Database.pdb
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Database\obj\Debug\Database.csprojAssemblyReference.cache
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Database\obj\Debug\Database.dll
+D:\PESSOAIS\PROJETOS\02- C#\GerenciadorDeConteudoMVC\Database\obj\Debug\Database.pdb
