@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Páginas";
+    List<Business.Pagina> paginas = ViewBag.Paginas;
+}
+@if (TempData["Sucesso"] != null)
+{
+    <div class="alert alert-success" role="alert">@TempData["Sucesso"]</div>
+}
+@if (TempData["Erro"] != null)
+{
+    <div class="alert alert-danger" role="alert">@TempData["Erro"]</div>
+}
+<div class="jumbotron">
+    <h3>Páginas</h3>
+    <div>
+        <a href="/paginas/novo" class="btn btn-default">Nova página</a>
+    </div>
+    <table class="table">
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Conteúdo</th>
+            <th>Data</th>
+            <th></th>
+        </tr>
+        @foreach (var p in paginas)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Nome</td>
+                <td>@p.Data</td>
+                <td>@p.Conteudo</td>
+                <td><a href="/paginas/@p.Id/editar">Alterar dados</a></td>
+            </tr>
+        }
+    </table>
+</div>

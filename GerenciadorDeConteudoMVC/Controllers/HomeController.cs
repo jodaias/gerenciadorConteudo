@@ -11,8 +11,10 @@ namespace GerenciadorDeConteudoMVC.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Paginas = new Pagina().Lista();
-
+            return View();
+        }
+        public ActionResult Novo()
+        {
             return View();
         }
 
